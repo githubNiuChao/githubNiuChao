@@ -89,8 +89,7 @@
 <br>
 
 <!-- metrics 基础资料 -->
-<div align="center"><img src="![Metrics](https://metrics.lecoq.io/githubNiuChao?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
-" alt="base metrics"/></div>
+![Metrics](https://metrics.lecoq.io/githubNiuChao?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
 <br>
 
 <!-- Dynamic Quotes -->
