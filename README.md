@@ -88,10 +88,6 @@
 </div>
 <br>
 
-<!-- metrics 基础资料 -->
-<div style="align: center">
-<img src="https://metrics.lecoq.io/githubNiuChao?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai"/>
-</div>
 
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
