@@ -209,39 +209,3 @@ Windows                  39 mins             ███████████�
   </tr>
 </table>
 
-<!-- Dynamic Heatmap -->
-<table>
-  <tr>
-    <td colspan="2" >
-      <img src="https://cdn.jsdelivr.net/gh/githubNiuChao/Running/assets/github.svg" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/githubNiuChao/Heatmap/OUT_FOLDER/github.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/githubNiuChao/Heatmap/OUT_FOLDER/wakatime.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/githubNiuChao/Heatmap/OUT_FOLDER/bilibili.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/githubNiuChao/Heatmap/OUT_FOLDER/shanbay.svg" />
-    </td>
-  </tr>
-</table>
-
-
-# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-
-<!-- just img -->
-<div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/githubNiuChao/photos/images/202110311913581.gif"/></div>
-
-<!-- plugin metrics -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/githubNiuChao/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.jsdelivr.net/gh/githubNiuChao/photos/images/202111021926704.png"/>
-</div>
