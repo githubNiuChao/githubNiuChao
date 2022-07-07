@@ -122,6 +122,22 @@
     
 <td valign="top">
   
+  
+<!-- 最近博客和豆瓣动态 -->
+<table align="center">
+<tr>
+<td valign="top">    
+
+### 🤹‍♀️ <a href="https://www.niu-chao.vip/" target="_blank">Recent Blog</a>
+  
+<!-- START_SECTION:blog -->
+* <a href='https://www.niu-chao.vip/2017/04/25/YYAsyncLayer%E6%BA%90%E7%A0%81&OSAtomic%E5%8E%9F%E5%AD%90%E6%93%8D%E4%BD%9C/！' target='_blank'>YYAsyncLayer源码&OSAtomic原子操作！</a> - 2017-04-25
+<!-- END_SECTION:blog -->
+  
+</td>
+    
+<td valign="top">
+  
 ### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
@@ -194,7 +210,7 @@ Windows                  39 mins             ███████████�
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+      <img src="https://activity-graph.herokuapp.com/graph?username=githubNiuChao&theme=xcode&bg_color=FF000000&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -215,23 +231,23 @@ Windows                  39 mins             ███████████�
 <table>
   <tr>
     <td colspan="2" >
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Running/assets/github.svg" width="100%" />
+      <img src="https://cdn.jsdelivr.net/gh/githubNiuChao/Running/assets/github.svg" width="100%" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/github.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/githubNiuChao/Heatmap/OUT_FOLDER/github.svg" />
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/wakatime.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/githubNiuChao/Heatmap/OUT_FOLDER/wakatime.svg" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/bilibili.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/githubNiuChao/Heatmap/OUT_FOLDER/bilibili.svg" />
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/shanbay.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/githubNiuChao/Heatmap/OUT_FOLDER/shanbay.svg" />
     </td>
   </tr>
 </table>
@@ -240,10 +256,10 @@ Windows                  39 mins             ███████████�
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
 <!-- just img -->
-<div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
+<div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/githubNiuChao/photos/images/202110311913581.gif"/></div>
 
 <!-- plugin metrics -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/githubNiuChao/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+  <img src="https://cdn.jsdelivr.net/gh/githubNiuChao/photos/images/202111021926704.png"/>
 </div>
