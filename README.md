@@ -88,7 +88,9 @@
 <br>
 
 <!-- metrics 基础资料 -->
-![Metrics](https://metrics.lecoq.io/githubNiuChao?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
+<!-- ![Metrics](https://metrics.lecoq.io/githubNiuChao?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai) -->
+<div align="center"><img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark](https://metrics.lecoq.io/githubNiuChao?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)"></div>
+
 <br>
 
 <!-- Dynamic Quotes -->
