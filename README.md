@@ -24,14 +24,6 @@
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;我开始得太晚了，但总归不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
 
-<!-- 比较好的开源项目卡片 -->
-<div align="center">
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div>
-
 💪 正在学习: 
 
 &emsp;&emsp;
@@ -97,7 +89,8 @@
 <br>
 
 <!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/base_metrics.svg" alt="base metrics"/></div>
+<div align="center"><img src="![Metrics](https://metrics.lecoq.io/githubNiuChao?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
+" alt="base metrics"/></div>
 <br>
 
 <!-- Dynamic Quotes -->
@@ -122,8 +115,8 @@
 ### 🤹‍♀️ <a href="https://www.niu-chao.vip/" target="_blank">Recent Blog</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://www.niu-chao.vip/2017/04/25/YYAsyncLayer%E6%BA%90%E7%A0%81&OSAtomic%E5%8E%9F%E5%AD%90%E6%93%8D%E4%BD%9C/！</a> - 2017-04-25
-* <a href='https://www.niu-chao.vip/2017/04/21/CFRunLoop%E5%BA%94%E7%94%A8/！</a> - 2017-04-21
+* <a href='https://www.niu-chao.vip/2017/04/25/YYAsyncLayer%E6%BA%90%E7%A0%81&OSAtomic%E5%8E%9F%E5%AD%90%E6%93%8D%E4%BD%9C/！'</a> - 2017-04-25
+* <a href='https://www.niu-chao.vip/2017/04/21/CFRunLoop%E5%BA%94%E7%94%A8/！'</a> - 2017-04-21
 <!-- END_SECTION:blog -->
   
 </td>
