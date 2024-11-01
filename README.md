@@ -27,8 +27,7 @@
 💪 正在学习: 
 
 &emsp;&emsp;
-![Flutter]([https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white](https://img.shields.io/badge/Flutter-Dart-yellow
-))
+![Flutter](https://img.shields.io/badge/Flutter-Dart-yellow)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
