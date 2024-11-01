@@ -55,7 +55,7 @@
 
 <!-- Gif -->
 <div align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
+  <img alt-"apple" src="[https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc4OWtlb20xbmE5YTZ5MjZrY3V2bDI1YmhkamF0aXVuOXExMHp1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VgTtXyj5YjVFieCYM2/giphy.gif)" width="100" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
