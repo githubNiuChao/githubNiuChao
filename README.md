@@ -27,9 +27,9 @@
 💪 正在学习: 
 
 &emsp;&emsp;
+![HarmonyOS](https://img.shields.io/badge/%E9%B8%BF%E8%92%99%20-%20HarmonyOS%20-%20orange)
 ![Flutter](https://img.shields.io/badge/Flutter-Dart-yellow)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![HarmonyOS](https://img.shields.io/badge/%E9%B8%BF%E8%92%99%20-%20HarmonyOS%20-%20orange)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
